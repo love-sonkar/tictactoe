@@ -55,7 +55,7 @@ const MainContainer = () => {
 
   return (
     <>
-      <div className="sm:grid grid-cols-2 h-full max-w-5xl mx-auto pb-8">
+      <div className="sm:grid grid-cols-2 h-full max-w-5xl mx-auto pb-10">
         <div className="grid place-items-center h-1/2 sm:h-full">
           <RightContent Reset={Reset} />
         </div>

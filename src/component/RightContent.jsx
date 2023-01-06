@@ -10,7 +10,7 @@ const RightContent = ({ Reset }) => {
         className="rounded-full border bg-pink-200 py-1  px-6 text-center text-2xl text-white hover:bg-transparent hover:text-pink-300 pb-3 transition-all"
         onClick={() => Reset()}
       >
-        Start -->
+        Start
       </button>
     </div>
   );
