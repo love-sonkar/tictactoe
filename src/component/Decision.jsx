@@ -1,6 +1,6 @@
 import React from "react";
-import winPng from "../../public/win.svg";
-import Draw from "../../public/draw.svg";
+import winPng from "/win.svg";
+import Draw from "/draw.svg";
 
 const Decision = ({ WinPlayer, Counter, Reset }) => {
   return (
